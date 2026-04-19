@@ -39,7 +39,7 @@ I am a results-driven developer currently working at **JJF**, specializing in bu
 
 ## 📬 Let's Connect
 * **Currently Working At:** JJF
-* **LinkedIn:** [Insert Link]
+* **LinkedIn:** https://in.linkedin.com/in/rohit-raz-webdev/
 * **Website/Portfolio:** [Insert Link]
 
 ---
