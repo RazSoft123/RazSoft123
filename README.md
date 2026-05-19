@@ -34,6 +34,7 @@ I am a results-driven developer currently working at **JJF**, specializing in bu
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=RazSoft123&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RazSoft123&layout=compact&theme=radical)
+![Streak](https://streak-stats.demolab.com?user=RazSoft123&theme=dark)
 
 ---
 
