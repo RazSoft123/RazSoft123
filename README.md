@@ -176,10 +176,6 @@ Developed and published browser games using **Phaser.js**.
 
 <p align="left">
 
-<a href="mailto:rohitkumarwebdev5@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
 <a href="https://linkedin.com/in/rohit-raz-webdev">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
@@ -189,8 +185,6 @@ Developed and published browser games using **Phaser.js**.
 </a>
 
 </p>
-
-📧 **Email:** rohitkumarwebdev5@gmail.com
 
 💼 **LinkedIn:** https://linkedin.com/in/rohit-raz-webdev
 
