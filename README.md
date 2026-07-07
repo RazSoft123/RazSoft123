@@ -1,135 +1,205 @@
-# Hi there 👋, I'm Rohit Kumar
+<h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
 
-## 🚀 Full Stack Developer | Product Builder | Backend Enthusiast
+<h3 align="center">
+Full Stack Developer • Product Builder • Backend Enthusiast
+</h3>
 
-I'm a Full Stack Developer from India with experience building production web applications, real-time systems, and developer tools.
+<p align="center">
+Building scalable web applications, real-time systems, browser extensions and developer tools.
+</p>
 
-Currently, I'm working at **Jainam Jivika Foundation (JJF)** where I develop scalable web applications used by thousands of users. My work includes backend architecture, REST APIs, RBAC, WebSockets, workflow automation, SEO optimization, and performance improvements.
-
-I enjoy turning ideas into products—from planning and architecture to deployment.
-
----
-
-## 💼 What I'm Working On
-
-- ⚙️ Designing scalable backend systems with Node.js & Express
-- 🌐 Building modern web applications using React & Next.js
-- 🚀 Exploring AI-powered applications
-- 🦀 Learning Rust
-- 🐹 Learning Go
-- 📚 Improving System Design & Distributed Systems
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=RazSoft123&style=for-the-badge" />
+</p>
 
 ---
 
-## 🛠 Tech Stack
+# 👨‍💻 About Me
+
+I'm a **Full Stack Developer** from India with around **1 year of professional experience** building production web applications.
+
+Currently working at **Jainam Jivika Foundation (JJF)** where I design scalable backend systems, REST APIs, real-time features, workflow automation, and optimize application performance.
+
+Outside work, I enjoy building products from scratch. I've published **Chrome Extensions**, **browser games**, and continuously explore modern technologies like **AI**, **Go**, and **Rust**.
+
+---
+
+# 🚀 Professional Highlights
+
+- 🚀 Built **50+ Production REST APIs**
+- 🔐 Implemented **RBAC** across **9 User Roles**
+- ⚡ Improved Lighthouse SEO **50 → 95+**
+- 📊 Worked with **100K+ Production Records**
+- 🌍 Built **Real-Time WebSocket Applications**
+- 📍 Google Maps API Integration
+- 📧 Event-Driven Notification Systems
+- 🎮 Published **3 Browser Games**
+- 🧩 Published **2 Chrome Extensions**
+
+---
+
+# 💻 Tech Stack
 
 ### Languages
-- JavaScript (ES6+)
-- TypeScript
-- PHP
-- Python
-- SQL
-- HTML5
-- CSS3
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,php,python,cpp,html,css" />
+</p>
 
 ### Frontend
-- React.js
-- Next.js
-- Tailwind CSS
-- Zustand
-- React Query
-- Redux
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite" />
+</p>
+
+**State Management**
+
+Zustand • React Query
+
+---
 
 ### Backend
-- Node.js
-- Express.js
-- Laravel
-- REST APIs
-- JWT Authentication
-- WebSockets (ws)
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
+</p>
+
+REST APIs • JWT Authentication • WebSockets
+
+---
 
 ### Database
-- MongoDB
-- MySQL
-- PostgreSQL
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+---
 
 ### DevOps & Tools
-- Git
-- GitHub
-- Docker
-- Vercel
-- AWS Lightsail
-- Postman
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,vscode,aws" />
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 📌 Karaya Suchi
-Workspace-based productivity platform featuring authentication, multiple workspaces, notes, tasks, and to-do management.
+## 📌 Karaya Suchi
 
-**Tech:** React • TypeScript • Node.js • MongoDB • Zustand • React Query
+Workspace-based productivity platform supporting authentication, multiple workspaces, notes, tasks and to-do management.
 
----
+**Tech Stack**
 
-### 💬 Real-Time Chat Application
-A WebSocket-powered chat platform supporting authentication, online presence, and persistent conversations.
-
-**Tech:** React • Node.js • MongoDB • WebSockets
+React.js • TypeScript • Node.js • MongoDB • Zustand • React Query
 
 ---
 
-### 🎮 Browser Games
-Developed and published multiple browser games using Phaser.js on GameMonetize.
+## 💬 Real-Time Chat Application
 
-🎯 **1500+ players worldwide**
+A WebSocket-powered messaging platform supporting authentication, online users, persistent conversations and real-time communication.
 
----
+**Tech Stack**
 
-### 🧩 Chrome Extensions
-Published developer-focused Chrome Extensions including:
-
-- 🎨 Color Picker (200+ installs)
-- 📷 Clean Capture
+React.js • TypeScript • Node.js • MongoDB • WebSockets
 
 ---
 
-# 📈 Professional Highlights
+# 🧩 Chrome Extensions
 
-- 🚀 Built 50+ production REST APIs
-- ⚡ Improved Lighthouse SEO from ~50 → 95+
-- 📊 Worked with 100K+ production records
-- 🔐 Implemented RBAC across 9 user roles
-- 🌍 Built real-time WebSocket features
-- 📍 Google Maps API integration
-- 📧 Event-driven notification systems
+## 🎨 Color Picker
 
----
+A lightweight Chrome Extension for extracting colors directly from webpages using the EyeDropper API.
 
-## 📊 GitHub Stats
+⭐ **200+ Downloads**
 
-![Streak](https://github-readme-streak-stats-eight.vercel.app?user=RazSoft123)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RazSoft123&theme=github-compact)
+🔗 https://chromewebstore.google.com/detail/color-picker/iljkegnoggecacdiflibkajbfleomnmd
 
 ---
 
-## 🌱 Currently Learning
+## 📷 Clean Capture
 
-- Artificial Intelligence
-- Go
-- Rust
-- System Design
-- Distributed Systems
+Capture clutter-free screenshots of webpage elements with an intuitive editing experience.
+
+🔗 https://chromewebstore.google.com/detail/clean-capture-%E2%80%93-clutter-f/himecbhjbfcpmcaamapopchlbfckdelj
 
 ---
 
-## 📫 Let's Connect
+# 🎮 Browser Games
 
-💼 LinkedIn: https://linkedin.com/in/rohit-raz-webdev
+Developed and published browser games using **Phaser.js**.
 
-🌐 Portfolio: https://razsoft.in/portfoli
+🎯 **1500+ Players Worldwide**
 
 ---
 
-> *"I enjoy building products that solve real problems and continuously learning better ways to engineer scalable software."*
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=RazSoft123&show_icons=true&hide_border=true&count_private=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RazSoft123&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=RazSoft123&theme=github-compact"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RazSoft123&theme=algolia&no-frame=true&margin-w=8"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- 🤖 Artificial Intelligence
+- 🦀 Rust
+- 🐹 Go
+- ☁️ Cloud & Distributed Systems
+- 🏗️ System Design
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="mailto:rohitkumarwebdev5@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/rohit-raz-webdev">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/RazSoft123">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+📧 **Email:** rohitkumarwebdev5@gmail.com
+
+💼 **LinkedIn:** https://linkedin.com/in/rohit-raz-webdev
+
+🌐 **Portfolio:** https://razsoft.in/portfolio
+
+---
+
+<p align="center">
+
+### *"Building products that solve real problems."* 🚀
+
+</p>
