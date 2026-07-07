@@ -1,46 +1,135 @@
-# Hi there,
+# Hi there 👋, I'm Rohit Kumar
 
-### 🚀 Software Developer | Extension Specialist | SEO & Web Performance
+## 🚀 Full Stack Developer | Product Builder | Backend Enthusiast
 
-I am a results-driven developer currently working at **JJF**, specializing in building high-performance web applications and browser tools. I bridge the gap between aesthetic design and technical efficiency, ensuring every project is fast, accessible, and discoverable.
+I'm a Full Stack Developer from India with experience building production web applications, real-time systems, and developer tools.
 
----
+Currently, I'm working at **Jainam Jivika Foundation (JJF)** where I develop scalable web applications used by thousands of users. My work includes backend architecture, REST APIs, RBAC, WebSockets, workflow automation, SEO optimization, and performance improvements.
 
-## 🛠️ Specialized Expertise
-
-### 🎨 Browser Extension Development
-* **Color Tools:** Designed and developed specialized color extensions (Eyedroppers, Palettes) using **Manifest V3**.
-* **DOM Interaction:** Experienced in high-performance content scripts and background service workers to manipulate UI elements in real-time.
-
-### ⚡ Web Optimization & Performance
-* **Core Web Vitals:** Expert at optimizing for LCP, FID, and CLS to achieve "Green" Lighthouse scores.
-* **Modern Tooling:** Utilizing **Vite**, **Webpack**, and lazy-loading techniques to minimize bundle sizes and maximize speed.
-
-### 🔍 Technical SEO
-* **Search Visibility:** Implementation of semantic HTML, JSON-LD Schema markup, and Open Graph protocols.
-* **Architecture:** Optimizing site structures for crawlability and indexation efficiency.
+I enjoy turning ideas into products—from planning and architecture to deployment.
 
 ---
 
-## 💻 Technical Stack
+## 💼 What I'm Working On
 
-* **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3/SASS
-* **Frameworks/Libraries:** React, NextJS, NodeJS Tailwind CSS
-* **Tools:** Git, GitHub Actions, Chrome DevTools, Lighthouse
+- ⚙️ Designing scalable backend systems with Node.js & Express
+- 🌐 Building modern web applications using React & Next.js
+- 🚀 Exploring AI-powered applications
+- 🦀 Learning Rust
+- 🐹 Learning Go
+- 📚 Improving System Design & Distributed Systems
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+- JavaScript (ES6+)
+- TypeScript
+- PHP
+- Python
+- SQL
+- HTML5
+- CSS3
+
+### Frontend
+- React.js
+- Next.js
+- Tailwind CSS
+- Zustand
+- React Query
+- Redux
+
+### Backend
+- Node.js
+- Express.js
+- Laravel
+- REST APIs
+- JWT Authentication
+- WebSockets (ws)
+
+### Database
+- MongoDB
+- MySQL
+- PostgreSQL
+
+### DevOps & Tools
+- Git
+- GitHub
+- Docker
+- Vercel
+- AWS Lightsail
+- Postman
+
+---
+
+# 🚀 Featured Projects
+
+### 📌 Karaya Suchi
+Workspace-based productivity platform featuring authentication, multiple workspaces, notes, tasks, and to-do management.
+
+**Tech:** React • TypeScript • Node.js • MongoDB • Zustand • React Query
+
+---
+
+### 💬 Real-Time Chat Application
+A WebSocket-powered chat platform supporting authentication, online presence, and persistent conversations.
+
+**Tech:** React • Node.js • MongoDB • WebSockets
+
+---
+
+### 🎮 Browser Games
+Developed and published multiple browser games using Phaser.js on GameMonetize.
+
+🎯 **1500+ players worldwide**
+
+---
+
+### 🧩 Chrome Extensions
+Published developer-focused Chrome Extensions including:
+
+- 🎨 Color Picker (200+ installs)
+- 📷 Clean Capture
+
+---
+
+# 📈 Professional Highlights
+
+- 🚀 Built 50+ production REST APIs
+- ⚡ Improved Lighthouse SEO from ~50 → 95+
+- 📊 Worked with 100K+ production records
+- 🔐 Implemented RBAC across 9 user roles
+- 🌍 Built real-time WebSocket features
+- 📍 Google Maps API integration
+- 📧 Event-driven notification systems
 
 ---
 
 ## 📊 GitHub Stats
 
 ![Streak](https://github-readme-streak-stats-eight.vercel.app?user=RazSoft123)
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=RazSoft123&theme=github-compact) 
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RazSoft123&theme=github-compact)
 
 ---
 
-## 📬 Let's Connect
-* **Currently Working At:** JJF
-* **LinkedIn:** https://in.linkedin.com/in/rohit-raz-webdev/
-* **Website/Portfolio:** [Insert Link]
+## 🌱 Currently Learning
+
+- Artificial Intelligence
+- Go
+- Rust
+- System Design
+- Distributed Systems
 
 ---
-*“Optimizing my corner of web”*
+
+## 📫 Let's Connect
+
+💼 LinkedIn: https://linkedin.com/in/rohit-raz-webdev
+
+🌐 Portfolio: https://razsoft.in/portfoli
+
+---
+
+> *"I enjoy building products that solve real problems and continuously learning better ways to engineer scalable software."*
