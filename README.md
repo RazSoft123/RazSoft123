@@ -140,8 +140,6 @@ Developed and published browser games using **Phaser.js**.
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RazSoft123&show_icons=true&hide_border=true&count_private=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RazSoft123&hide_border=true"/>
-
 </p>
 
 <p align="center">
