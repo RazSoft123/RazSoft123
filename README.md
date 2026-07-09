@@ -152,16 +152,6 @@ Developed and published browser games using **Phaser.js**.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RazSoft123&theme=algolia&no-frame=true&margin-w=8"/>
-
-</p>
-
----
-
 # 🌱 Currently Learning
 
 - 🤖 Artificial Intelligence
