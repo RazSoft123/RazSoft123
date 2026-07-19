@@ -90,19 +90,11 @@ REST APIs • JWT Authentication • WebSockets
 
 Workspace-based productivity platform supporting authentication, multiple workspaces, notes, tasks and to-do management.
 
+[X] Live Link: https://karaysuchi.razsoft.in
+
 **Tech Stack**
 
 React.js • TypeScript • Node.js • MongoDB • Zustand • React Query
-
----
-
-## 💬 Real-Time Chat Application
-
-A WebSocket-powered messaging platform supporting authentication, online users, persistent conversations and real-time communication.
-
-**Tech Stack**
-
-React.js • TypeScript • Node.js • MongoDB • WebSockets
 
 ---
 
